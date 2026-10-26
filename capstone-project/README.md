@@ -42,3 +42,7 @@ Prompts used for program creation assistance, architectural review, and bug revi
 "Using the attached client.c and server.c files, how can I adjust the sock based networking to work on Windows 11"
 "Help me make a Makefile for the following attached zip program"
 "Review the following attached zip program and look for any possible oversights or improvements, with an emphasis on the chosen implementation of client-server database access and how the server processes commands"
+
+# Video Demonstration Link
+It can also be found as a File in this source code repo
+https://youtu.be/MxKX9mLH3Zk
