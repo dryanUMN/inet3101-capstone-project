@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Windows MSYS2 GCC",
+            "includePath": ["${workspaceFolder}/**"],
+            "cStandard": "c11",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
