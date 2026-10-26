@@ -44,5 +44,4 @@ Prompts used for program creation assistance, architectural review, and bug revi
 "Review the following attached zip program and look for any possible oversights or improvements, with an emphasis on the chosen implementation of client-server database access and how the server processes commands"
 
 # Video Demonstration Link
-It can also be found as a File in this source code repo
 https://youtu.be/MxKX9mLH3Zk
